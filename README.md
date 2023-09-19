@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @trinhdinhtai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About me
 
-<!---
-trinhdinhtai/trinhdinhtai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Name: Trịnh Đình Tài
+- My blog: [taitd.io.vn](https://taitd.io.vn/)
+- Email: [taitd153.dev@gmail.com](mailto:taitd153.dev@gmail.com)
+- Software engineer
+
