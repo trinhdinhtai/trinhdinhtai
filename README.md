@@ -5,5 +5,9 @@
 - Email: [taitd153.dev@gmail.com](mailto:taitd153.dev@gmail.com)
 - Software engineer
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/trinhdinhtai/count.svg" />
+</p>
 <a href="https://app.daily.dev/taitddev"><img src="https://api.daily.dev/devcards/a0c705facdfc415b91179d6b0e5df951.png?r=a4m" width="400" alt="Trịnh Đình Tài's Dev Card"/></a>
 
