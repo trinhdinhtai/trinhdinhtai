@@ -1,7 +1,7 @@
 ## About me
 
 - Name: Trịnh Đình Tài
-- My blog: [taitd.io.vn](https://taitd.io.vn/)
+- My blog: [taitd.dev](https://taitd.dev/)
 - Email: [taitd153.dev@gmail.com](mailto:taitd153.dev@gmail.com)
 - Software engineer
 
